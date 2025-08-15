@@ -35,7 +35,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-10 items-center">
             <div>
               <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-900">
-                Catalyzing curiosity in
+                 Curiosity in
                 <span className="text-green-700"> biochemistry</span>
               </h1>
               <p className="mt-5 text-slate-600 text-lg max-w-prose">
