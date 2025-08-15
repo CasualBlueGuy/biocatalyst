@@ -191,7 +191,7 @@ export default function Home() {
           </div>
           <form
             className="mt-8 grid gap-4 max-w-2xl"
-            action="https://formspree.io/f/your-id" // ✅ Replace with your Formspree endpoint
+            action="https://formspree.io/f/xjkozaly" // ✅ Replace with your Formspree endpoint
             method="POST"
           >
             <div className="grid sm:grid-cols-2 gap-4">
